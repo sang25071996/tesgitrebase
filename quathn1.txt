@@ -1,3 +1,4 @@
 Sangnt15
-sangnt15555
-Kkk
+Public String getStudent() {
+	return this.name;
+}
